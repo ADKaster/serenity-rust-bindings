@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "serenity-rust",
+    "test-app",
+]
+
+resolver = "2"

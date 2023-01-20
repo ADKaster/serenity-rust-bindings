@@ -1,0 +1,10 @@
+[package]
+name = "test-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serenity-rust = { path = "../serenity-rust" }
+
+[build-dependencies]
+cmake = "0.1"
